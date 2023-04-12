@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "Express": "",
+    "bare-server-node": "github:tomphttp/bare-server-node",
+    "express": "^4.17.3",
+    "nginx": "^1.0.3",
+    "node-static": "^0.7.11"
+  },
+  "name": "Urainium",
+  "version": "1.0.0",
+  "description": "Uraniam instance",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "",
+  "license": "GPL-3.0-or-later"
+}
